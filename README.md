@@ -22,7 +22,7 @@ Demo Steps:
 
 Check result:
 1. Log in to your HCP Terraform UI.
-2. Go to the organization, and choose "Create workspace" --> "VCS ...".
+2. Go to the organization, and choose "Create workspace" --> "VCS control workflow".
 3. You will find the connection is listed in the UI. 
 
 
