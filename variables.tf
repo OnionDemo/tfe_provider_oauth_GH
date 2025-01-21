@@ -20,7 +20,7 @@ variable "oauth_http_url" {
 
 variable "oauth_token" {
     description = " The token string you were given by your VCS provider, e.g. ghp_xxxx for a GitHub personal access token." 
-
+    sensitive   = true
 }
 
 variable "gh_repo" {
